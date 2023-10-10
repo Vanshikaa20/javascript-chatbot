@@ -1,5 +1,5 @@
 {
-  "name": "JavaScript ChatBot",
+  "name": "rjit ChatBot",
   "description": "A Simple & Powerful ChatBot in NodeJs",
   "version": "1.0.0",
   "private": false,
@@ -39,6 +39,7 @@
     "express": "^4.18.1",
     "express-rate-limit": "^6.4.0",
     "extract-values": "^0.1.2",
+    "install": "^0.13.0",
     "lodash": "^4.17.21",
     "lower-case": "^2.0.2",
     "morgan": "^1.10.0",

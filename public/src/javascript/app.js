@@ -88,19 +88,19 @@ window.onload = () => {
   });
 };
 
-const toogleShowSuggestions = () => {
-  if ($("main").css("display") == "none") {
-    $(".all-questions").hide();
-    $("header img").attr("src", "./src/images/chat_icon.png");
-    $("main").show();
-    $("footer").show();
-  } else {
-    $(".all-questions").show();
-    $("header img").attr("src", "./src/images/close.png");
-    $("main").hide();
-    $("footer").hide();
-  }
-};
+// const toogleShowSuggestions = () => {
+//   if ($("main").css("display") == "none") {
+//     $(".all-questions").hide();
+//     $("header img").attr("src", "./src/images/chat_icon.png");
+//     $("main").show();
+//     $("footer").show();
+//   } else {
+//     $(".all-questions").show();
+//     $("header img").attr("src", "./src/images/close.png");
+//     $("main").hide();
+//     $("footer").hide();
+//   }
+// };
 
 $("#toogle-chat").on("click", () => {
   toogleShowSuggestions();
@@ -121,7 +121,7 @@ $("#chat-form").submit((e) => {
 
 const typed = new Typed(".chat-input", {
   strings: [
-    "how many mm in 1 cm",
+    "who is the Founder of Rjit",
     "change 10 l into ml",
     "what is computer",
     "what is Javascript",

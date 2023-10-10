@@ -879,6 +879,8 @@
     ],
     "answers": ["Sleep tight!", "Have a good one!", "Talk to you soon!"]
   },
+
+
   {
     "questions": [
       "afternoon",
@@ -902,6 +904,7 @@
       "Greetings!"
     ]
   },
+
   {
     "questions": [
       "it was nice meeting you",
@@ -922,6 +925,7 @@
       "The pleasure is mine."
     ]
   },
+
   {
     "questions": [
       "it's good to see you too",
@@ -941,6 +945,7 @@
       "Same here. I was starting to miss you."
     ]
   },
+  
   {
     "questions": [
       "it is nice talking to you",
@@ -1484,6 +1489,8 @@
       "All right. I'll be here."
     ]
   },
+
+
   {
     "questions": [
       "tell me some jokes",
@@ -1531,5 +1538,106 @@
       "In an interview, Interviewer: How does an electric motor run?\n\nSardar: Dhhuuuurrrrrrrrrr. …..\n\nInteviewer shouts: Stop it.\n\nSardar: Dhhuurrrr dhup dhup dhup…",
       "Sardar joined new job. 1st day he worked till late evening on the computer. Boss was happy and asked what you did till evening.\n\nSardar: Keyboard alphabets were not in order, so I made it alright."
     ]
+  },
+
+
+  {
+    "questions": [
+      "Can you explain the admissions procedure?",
+      "How do I apply for admission?",
+      "What are the steps to get into your college?",
+      "Tell me about the application process.",
+      "What's the admission criteria?",
+      "What documents are required for admission?",
+      "Is there an application deadline?",
+      "How can I check my application status?",
+      "Are there any specific entrance exams?",
+      "Can you walk me through the enrollment process?",
+      "What are the prerequisites for admission?",
+      "Is there an interview as part of the admissions process?",
+      "Do you have any special admission considerations for athletes or artists?",
+    ],
+    "answers": [
+      "The admissions procedure typically involves several steps: application submission, document submission, evaluation, and notification of acceptance or rejection.It's important to refer to our official admissions website for detailed instructions.",
+      "You can apply for admission by visiting our official admissions website and following the online application instructions. Create an account, complete the application form, and submit all required documents.",
+      "The steps to get into our college generally include completing the online application, submitting required documents, meeting admission criteria, and receiving an admission decision.",
+      "The application process includes filling out the application form, providing transcripts, letters of recommendation, and a personal statement. Be sure to check our website for specific requirements.",
+      "Admission criteria  includes factors like academic performance, standardized test scores(jee mains/jee advance), recommendation letters. Refer to our website for specific criteria.",
+      "Required documents typically include transcripts, letters of recommendation, standardized test scores (jee mains/jee advance), a personal statement, and an application fee. Visit our website for a complete list.",
+      "Please check our admissions website for the specific deadline.",
+      "You can check your application status by logging into your online application portal. Updates on your application status will be available there.",
+      "Some programs may require specific entrance exams like the JEE Mains, JEE Adavance. ",
+      "The enrollment process typically involves accepting an offer of admission, registering for classes, paying tuition and fees, and attending orientation. Detailed instructions will be provided to admitted students.",
+      "Prerequisites for admission must includes relevant standardized test scores .",
+      "Interviews may be part of the admissions process for some programs or scholarships. Check our website or contact the admissions office for information on whether interviews are required for your specific situation.",
+      "Yes, there may be special admission considerations for athletes or artists, such as portfolio submissions or athletic recruitment. These requirements can vary, so please consult the specific program or athletic department for details.",
+    ]
+  },
+  {
+    "questions": [
+      "What facilities are available in the CSE department?",
+      "Tell me about the computer labs in the CSE department.",
+      "Are there any specialized research facilities in CSE?",
+      "Can I access the CSE department's facilities during weekends?",
+      "Do you have any collaborative spaces in the CSE department?",
+      "Is there a makerspace or innovation lab in the CSE department?",
+      "Are there any 24/7 study areas in the CSE department?",
+      "Tell me about the accessibility features in the CSE department's facilities."
+    ],
+    "answers": ["The CSE department offers state-of-the-art facilities, including computer labs, research labs, classrooms equipped with multimedia technology, and a dedicated library with resources related to computer science and engineering.",
+      "Our computer labs are equipped with the latest hardware and software to support coursework and research. They are available for students and faculty, and you can check lab availability and hours on our department's website.",
+      "Yes, we have specialized research labs for various areas within CSE, such as artificial intelligence, robotics, and cybersecurity. These labs house cutting-edge equipment and resources for faculty and student research.",
+      "Yes, some of our facilities, like the computer labs and study areas, have extended hours and are accessible during weekends to accommodate student needs. Check our department's website or inquire at the front desk for specific hours.",
+      "Absolutely! We have collaborative spaces designed for group work and project discussions. These areas are equipped with whiteboards, comfortable seating, and power outlets to facilitate teamwork.",
+      "Yes, we have a dedicated makerspace and innovation lab where students can work on hardware and software projects, prototype ideas, and explore innovative technologies.",
+      "Yes, we provide 24/7 study areas for CSE students who need a quiet and dedicated space to study or work on projects. These areas are equipped with computers and Wi-Fi.",
+      "We are committed to providing accessible facilities for all students. Our department's facilities are equipped with ramps, elevators, and other accessibility features to ensure that everyone can fully participate in academic activities."
+    ]
+  }, {
+    "questions": ["What is the contact information for the CSE department?",
+      "How can I get in touch with the CSE department?",
+      "I need to reach out to someone in the CSE department. Can you provide their contact information?",
+      "What is the email address for the CSE department?",
+      "How do I contact the head of the CSE department?",
+      "Can you provide me with the CSE department's phone number?",
+      "Is there a contact person for admissions in the CSE department?",
+      "I need to inquire about research opportunities in CSE. Who should I contact?",
+      "How can I schedule an appointment with an advisor in the CSE department?"
+
+
+    ],
+    "answers": [
+      "You can reach the CSE department by emailing rjit.ac.in . Additionally, you can visit our department's website for more details.",
+      "To contact the CSE department, you can send an email to rjit.ac.in . Feel free to visit our department's website",
+      "Certainly! You can contact the CSE department by emailing rjit.ac.in o. For specific faculty or staff contacts, you can find their information on our department's website.",
+      "You can contact the CSE department by emailing rjit.ac.in. For more contact options, you can explore our department's website.",
+      "To reach the head of the CSE department, visit the website of institue.",
+      "Certainly! You can call the CSE department, you can find their information on webiste of institue. ",
+      "For admissions-related inquiries in the CSE department, you can contact on  rjit.ac.in .",
+      "To inquire about research opportunities in CSE, please contact head of department.",
+      "To schedule an appointment with an advisor in the CSE department, please contact head of department."
+    ]
+  },
+  {
+    "questions": ["Can you tell me about the placement opportunities at college?",
+      "What is the placement rate at college?",
+      "Which companies typically recruit from college?",
+      "Are there internship opportunities available for students at college?",
+      "Can you share some success stories of alumni from college?",
+      "What support services does [college/university] offer to help students with placements?",
+      "Does [college/university] have partnerships with industry organizations?",
+    ],
+    "answers": ["Certainly! College has a strong track record of providing excellent placement opportunities for its students.",
+      "The placement rate at college is [percentage]. This rate reflects the percentage of students who secured job placements after graduation.",
+      "Many reputable companies recruit from college, including [company 1], [company 2], and [company 3]. These are just a few examples.",
+      "Yes, college offers various internship opportunities with both local and national companies. These internships provide valuable hands-on experience for students.",
+      "Certainly! Many alumni from college have gone on to achieve great success in their careers. Some notable alumni include [alumni 1], [alumni 2], and [alumni 3].",
+      "College provides a range of placement support services, including resume workshops, interview coaching, and career counseling. These resources are available to assist students in securing job placements.",
+      "Yes, college collaborates with various industry organizations to facilitate networking and job placement opportunities for students. These partnerships enhance students' access to the job market."
+    ]
   }
+
+ 
 ]
+
+

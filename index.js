@@ -93,10 +93,12 @@ const sendAllQuestions = (req, res) => {
 };
 
 const sendWelcomeMessage = (req, res) => {
+  const responseText = _.sample(welcomeChat.welcomeMessages);
   res.json({
-    responseText: _.sample(welcomeChat),
+    responseText
   });
 };
+
 
 const sendAnswer = async (req, res) => {
   let isFallback = false;

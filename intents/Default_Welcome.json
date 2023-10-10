@@ -1,4 +1,8 @@
-[
-    "Hii",
-    "hey"
-]
+{
+    "welcomeMessages": [
+      "Hello! How can I assist you today?",
+      "Welcome! How can I help you?",
+      "Hi there! What can I do for you?"
+    ]
+  }
+  
