@@ -174,7 +174,10 @@
       "be clever",
       "you must learn"
     ],
-    "answers": ["I'm certainly trying.", "I'm definitely working on it."]
+    "answers": [
+      "I'm certainly trying.",
+      "I'm definitely working on it."
+    ]
   },
   {
     "questions": [
@@ -369,7 +372,10 @@
       "you are qualified",
       "you're pretty smart"
     ],
-    "answers": ["Thank you. I try my best.", "You're pretty smart yourself."]
+    "answers": [
+      "Thank you. I try my best.",
+      "You're pretty smart yourself."
+    ]
   },
   {
     "questions": [
@@ -468,7 +474,10 @@
       "you're a true professional",
       "you are amazing"
     ],
-    "answers": ["I'm glad you think so.", "Thanks, I try."]
+    "answers": [
+      "I'm glad you think so.",
+      "Thanks, I try."
+    ]
   },
   {
     "questions": [
@@ -616,7 +625,10 @@
       "were you ready",
       "are you ready right now"
     ],
-    "answers": ["Always! How can I help?", "Sure! What can I do for you?"]
+    "answers": [
+      "Always! How can I help?",
+      "Sure! What can I do for you?"
+    ]
   },
   {
     "questions": [
@@ -670,7 +682,10 @@
       "you're absolutely right",
       "it is true"
     ],
-    "answers": ["That's my job.", "Of course I am."]
+    "answers": [
+      "That's my job.",
+      "Of course I am."
+    ]
   },
   {
     "questions": [
@@ -685,7 +700,10 @@
       "why don't you talk to me",
       "just chat with me"
     ],
-    "answers": ["Sure. Let's talk!", "My pleasure. Let's chat."]
+    "answers": [
+      "Sure. Let's talk!",
+      "My pleasure. Let's chat."
+    ]
   },
   {
     "questions": [
@@ -717,7 +735,11 @@
       "my pleasure",
       "you're welcome"
     ],
-    "answers": ["You're so polite!", "Nice manners!", "You're so courteous!"]
+    "answers": [
+      "You're so polite!",
+      "Nice manners!",
+      "You're so courteous!"
+    ]
   },
   {
     "questions": [
@@ -811,8 +833,16 @@
     ]
   },
   {
-    "questions": ["wow wow wow", "wooow", "wow", "woah", "wow wow"],
-    "answers": ["Wow indeed!"]
+    "questions": [
+      "wow wow wow",
+      "wooow",
+      "wow",
+      "woah",
+      "wow wow"
+    ],
+    "answers": [
+      "Wow indeed!"
+    ]
   },
   {
     "questions": [
@@ -828,7 +858,12 @@
       "get lost",
       "bye"
     ],
-    "answers": ["See you soon!", "Bye-bye!", "Till next time!", "Bye."]
+    "answers": [
+      "See you soon!",
+      "Bye-bye!",
+      "Till next time!",
+      "Bye."
+    ]
   },
   {
     "questions": [
@@ -877,10 +912,12 @@
       "bye good night",
       "have a good night"
     ],
-    "answers": ["Sleep tight!", "Have a good one!", "Talk to you soon!"]
+    "answers": [
+      "Sleep tight!",
+      "Have a good one!",
+      "Talk to you soon!"
+    ]
   },
-
-  
   {
     "questions": [
       "afternoon",
@@ -904,7 +941,6 @@
       "Greetings!"
     ]
   },
-
   {
     "questions": [
       "it was nice meeting you",
@@ -925,7 +961,6 @@
       "The pleasure is mine."
     ]
   },
-
   {
     "questions": [
       "it's good to see you too",
@@ -945,7 +980,6 @@
       "Same here. I was starting to miss you."
     ]
   },
-  
   {
     "questions": [
       "it is nice talking to you",
@@ -1439,7 +1473,11 @@
       "yeah exactly",
       "ok"
     ],
-    "answers": ["Great!", "All right!", "Good!"]
+    "answers": [
+      "Great!",
+      "All right!",
+      "Good!"
+    ]
   },
   {
     "questions": [
@@ -1489,8 +1527,6 @@
       "All right. I'll be here."
     ]
   },
-
-
   {
     "questions": [
       "tell me some jokes",
@@ -1539,8 +1575,6 @@
       "Sardar joined new job. 1st day he worked till late evening on the computer. Boss was happy and asked what you did till evening.\n\nSardar: Keyboard alphabets were not in order, so I made it alright."
     ]
   },
-
-
   {
     "questions": [
       "Can you explain the admissions procedure?",
@@ -1584,7 +1618,8 @@
       "Are there any 24/7 study areas in the CSE department?",
       "Tell me about the accessibility features in the CSE department's facilities."
     ],
-    "answers": ["The CSE department offers state-of-the-art facilities, including computer labs, research labs, classrooms equipped with multimedia technology, and a dedicated library with resources related to computer science and engineering.",
+    "answers": [
+      "The CSE department offers state-of-the-art facilities, including computer labs, research labs, classrooms equipped with multimedia technology, and a dedicated library with resources related to computer science and engineering.",
       "Our computer labs are equipped with the latest hardware and software to support coursework and research. They are available for students and faculty, and you can check lab availability and hours on our department's website.",
       "Yes, we have specialized research labs for various areas within CSE, such as artificial intelligence, robotics, and cybersecurity. These labs house cutting-edge equipment and resources for faculty and student research.",
       "Yes, some of our facilities, like the computer labs and study areas, have extended hours and are accessible during weekends to accommodate student needs. Check our department's website or inquire at the front desk for specific hours.",
@@ -1593,8 +1628,10 @@
       "Yes, we provide 24/7 study areas for CSE students who need a quiet and dedicated space to study or work on projects. These areas are equipped with computers and Wi-Fi.",
       "We are committed to providing accessible facilities for all students. Our department's facilities are equipped with ramps, elevators, and other accessibility features to ensure that everyone can fully participate in academic activities."
     ]
-  }, {
-    "questions": ["What is the contact information for the CSE department?",
+  },
+  {
+    "questions": [
+      "What is the contact information for the CSE department?",
       "How can I get in touch with the CSE department?",
       "I need to reach out to someone in the CSE department. Can you provide their contact information?",
       "What is the email address for the CSE department?",
@@ -1603,8 +1640,6 @@
       "Is there a contact person for admissions in the CSE department?",
       "I need to inquire about research opportunities in CSE. Who should I contact?",
       "How can I schedule an appointment with an advisor in the CSE department?"
-
-
     ],
     "answers": [
       "You can reach the CSE department by emailing rjit.ac.in . Additionally, you can visit our department's website for more details.",
@@ -1619,7 +1654,8 @@
     ]
   },
   {
-    "questions": ["Can you tell me about the placement opportunities at college?",
+    "questions": [
+      "Can you tell me about the placement opportunities at college?",
       "What is the placement rate at college?",
       "Which companies typically recruit from college?",
       "Are there internship opportunities available for students at college?",
@@ -1627,7 +1663,8 @@
       "What support services does [college/university] offer to help students with placements?",
       "Does [college/university] have partnerships with industry organizations?",
     ],
-    "answers": ["Certainly! College has a strong track record of providing excellent placement opportunities for its students.",
+    "answers": [
+      "Certainly! College has a strong track record of providing excellent placement opportunities for its students.",
       "The placement rate at college is [percentage]. This rate reflects the percentage of students who secured job placements after graduation.",
       "Many reputable companies recruit from college, including [company 1], [company 2], and [company 3]. These are just a few examples.",
       "Yes, college offers various internship opportunities with both local and national companies. These internships provide valuable hands-on experience for students.",
@@ -1636,8 +1673,4 @@
       "Yes, college collaborates with various industry organizations to facilitate networking and job placement opportunities for students. These partnerships enhance students' access to the job market."
     ]
   }
-
- 
 ]
-
-
